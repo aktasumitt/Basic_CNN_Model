@@ -1,4 +1,4 @@
-TRAIN_PATH="Sign Language Dataset"
+TRAIN_PATH="Dataset"
 PREDICTION_FOLDER_PATH="Predict_img"
 CALLBACKS_PATH="Sign_Lenguage_callbacks.pth.tar"
 
